@@ -1,7 +1,9 @@
 ## [MediaLab Berlin](https://www.media.mit.edu/events/mlberlin-signalandnoise/) · Creative AI.Embodied AI 
 
 
-<img src="https://github.com/AjarAilerons/Embodied_AI/blob/master/images/igor.jpg" width="600"  class="center">
+<p align="center"> 
+<img src="https://github.com/AjarAilerons/Embodied_AI/blob/master/images/igor.jpg" width="600">
+</p>
 
 
 
