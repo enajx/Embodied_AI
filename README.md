@@ -15,4 +15,4 @@ For a AI to be emotional and to have its own personality means that
 
 * Helping cementing certain manners like saying *please*.
 * The way kids behave towards their frieds is an indicator of their emotional state. The AI could be used as tool to unearth and prevent adverse situations a child might be quietly going through, ie. bullying at school.
-* ´Parental outsourcing, want a child but don't want to spend too much time with s/he? An AI can provide the attention you can't.´
+* `Parental outsourcing, want a child but don't want to spend too much time with s/he? An AI can provide the attention you can't.`
