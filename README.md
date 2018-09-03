@@ -1,5 +1,8 @@
 # MediaLab Berlin
-###### creative_AI.Embodied_AI
+
+###### https://www.media.mit.edu/events/mlberlin-signalandnoise/
+
+###### creative_AI.Embodied_AI 
 
 
 ### What's missing in AI?
