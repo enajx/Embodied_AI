@@ -8,10 +8,10 @@ For instance is saying please to Alexa appropriate? Debate!!
 
 * Phyisical: Things that we can touch are easier to understand and to connect with
 * Accessible: The best way to understand and demystify a new technology is to explore it and build it.
-* Personality: 
+* Personality: Interacting with standardised systems may produce alienation, an organically perceived personality might help prevent this. 
 * Emotional:
   * the most powerful kind of intelligence that we know of, human intelligence, is hard to conceive without emotions. 
-  * emotions are a great way to relate to new things and that it’s easier to understand things we relate to
+  * emotions are a great way to relate to new things and that it’s easier to understand things we relate to.
 
 #### Future developments of the project
 
@@ -33,3 +33,5 @@ For a AI to be emotional and to have its own personality means that
 * Helping cementing certain manners like saying *please*.
 * The way kids behave towards their frieds is an indicator of their emotional state. The AI could be used as tool to unearth and prevent adverse situations a child might be quietly going through, ie. bullying at school.
 * *Parental outsourcing, want a child but don't want to spend too much time with s/he? An AI can provide the attention you can't.*
+
+
