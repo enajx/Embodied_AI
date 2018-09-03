@@ -1,8 +1,6 @@
 # MediaLab Berlin
 ###### creative_AI.Embodied_AI
 
-If you have a chance to perhaps write more on what this might mean for kids and adults that’d be cool. 
-For instance is saying please to Alexa appropriate? Debate!!
 
 #### What's missing in AI?
 
@@ -29,7 +27,7 @@ For instance is saying please to Alexa appropriate? Debate!!
 
 
 
-#### Possible use cases in a household environment 
+#### Possible use cases in a household environment and envisioned effects
 
 * Helping cementing certain manners like saying *please* or being thankful.
 * Potential applications for kids with autism spectrum disorder: the loaded in 
