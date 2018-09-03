@@ -1,10 +1,10 @@
 # medialabberlin_creativeAI
-Embodied AI
+###### Embodied AI
 
 If you have a chance to perhaps write more on what this might mean for kids and adults that’d be cool. 
 For instance is saying please to Alexa appropriate? Debate!!
 
-#### (currently) missing qualities of AI
+#### What's missing in AI?
 
 * Phyisical: Things that we can touch are easier to understand and to connect with
 * Accessible: The best way to understand and demystify a new technology is to explore it and build it.
