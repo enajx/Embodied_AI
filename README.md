@@ -4,6 +4,19 @@ Embodied AI
 If you have a chance to perhaps write more on what this might mean for kids and adults that’d be cool. 
 For instance is saying please to Alexa appropriate? Debate!!
 
+###### (currently) missing qualities of AI
+
+* Phyisical: Things that we can touch are easier to understand and to connect with
+* Emotional
+* Accessible
+* Personality
+* Emotional:
+  * asefa 
+  * afsdfasef
+
+
+
+
 ###### What does this mean for kids and adults?
 
 For a AI to be emotional and to have its own personality means that
@@ -11,8 +24,8 @@ For a AI to be emotional and to have its own personality means that
 * it feels less of a alienating experience to interact with it
 
 
-###### Possible use cases
+###### Possible use cases in a household environment 
 
 * Helping cementing certain manners like saying *please*.
 * The way kids behave towards their frieds is an indicator of their emotional state. The AI could be used as tool to unearth and prevent adverse situations a child might be quietly going through, ie. bullying at school.
-* `Parental outsourcing, want a child but don't want to spend too much time with s/he? An AI can provide the attention you can't.`
+* *Parental outsourcing, want a child but don't want to spend too much time with s/he? An AI can provide the attention you can't.*
