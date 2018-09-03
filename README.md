@@ -7,7 +7,7 @@ For instance is saying please to Alexa appropriate? Debate!!
 #### What's missing in AI?
 
 * Phyisical: Things that we can touch are easier to understand and to connect with
-* Tools to make it **accessible**: The best way to understand and demystify a new technology is to explore it and build it.[http://cognimates.me/]
+* Tools to make it **accessible**: The best way to understand and demystify a new technology is to explore it and build it.(http://cognimates.me)
 * Personality: Interacting with standardised systems may produce alienation, an organically perceived personality might help prevent this. 
 * Emotional:
   * the most powerful kind of intelligence that we know of, human intelligence, is hard to conceive without emotions. 
