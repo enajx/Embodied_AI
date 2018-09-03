@@ -4,10 +4,10 @@
 
 ### What's missing in AI?
 
-* *Physical*: Things that we can touch are easier to understand and to connect with
+* **Physical**: Things that we can touch are easier to understand and to connect with
 * [Tools](http://cognimates.me) to make it **accessible**: The best way to understand and demystify a new technology is to explore it and build it.
-* *Personality*: Interacting with standardised systems may produce alienation, an organically perceived personality might help prevent this. 
-* *Emotional*:
+* **Personality**: Interacting with standardised systems may produce alienation, an organically perceived personality might help prevent this. 
+* **Emotional**:
   * the most powerful kind of intelligence that we know of, human intelligence, is hard to conceive without emotions. 
   * emotions are a great way to relate to new things and that it’s easier to understand things we relate to.
   * the interaction with an emotional AI is likely to be less alienating.
