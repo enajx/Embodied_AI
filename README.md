@@ -1,4 +1,4 @@
-## [MediaLab Berlin](https://www.media.mit.edu/events/mlberlin-signalandnoise/) · creative_AI.Embodied_AI track
+## [MediaLab Berlin](https://www.media.mit.edu/events/mlberlin-signalandnoise/) · Creative AI.Embodied AI track
 
 
 ### What's missing in AI?
