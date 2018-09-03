@@ -5,10 +5,6 @@
 <img src="images/igor.jpg" width="600">
 </p>
 
-<img src="images/igor.jpg" width="600" class="inline"/>
-
-
-
 ### What's missing in AI?
 
 * **Physical**: Things that we can touch are easier to understand and to connect with
@@ -51,8 +47,6 @@ Scratch-based [Cognimates](cognimates.me)
 ### Credits
 
 
-
-
 <p align="center"> 
-<img src="https://github.com/AjarAilerons/Embodied_AI/blob/master/images/photos.png" width="600">
+<img src="images/photos.jpg" width="600">
 </p>
