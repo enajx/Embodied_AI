@@ -1,5 +1,5 @@
 # MediaLab Berlin
-###### creativeAI.Embodied AI
+###### creative_AI.Embodied_AI
 
 If you have a chance to perhaps write more on what this might mean for kids and adults that’d be cool. 
 For instance is saying please to Alexa appropriate? Debate!!
