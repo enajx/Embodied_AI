@@ -5,7 +5,7 @@
 <img src="images/igor.jpg" width="600">
 </p>
 
-<img src="images/igor.jpg" alt="hi" class="inline"/>
+<img src="images/igor.jpg" width="600" class="inline"/>
 
 
 
