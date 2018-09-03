@@ -50,5 +50,5 @@ Scratch-based [Cognimates](cognimates.me)
 
 
 <p align="center"> 
-<img src="https://github.com/AjarAilerons/Embodied_AI/blob/master/images/photos.png">
+<img src="https://github.com/AjarAilerons/Embodied_AI/blob/master/images/photos.png" width="600">
 </p>
