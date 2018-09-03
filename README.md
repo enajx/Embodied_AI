@@ -10,7 +10,6 @@
   * the most powerful kind of intelligence that we know of, human intelligence, is hard to conceive without emotions. 
   * emotions are a great way to relate to new things and that it’s easier to understand things we relate to.
   * the interaction with an emotional AI is likely to be less alienating.
-  * it's more likely to be positively integrated in the family household
   
 
 ### Future developments of the project
@@ -31,6 +30,7 @@
 * Helping cementing certain manners like saying *please* or being thankful.
 * Potential applications for kids with autism spectrum disorder: the loaded in 
 * The way kids behave towards their friends is an indicator of their emotional state. The AI could be used as tool to unearth and prevent adverse situations a child might be quietly going through, ie. bullying at school.
+* Greater likelihood to be positively integrated in the family household
 * *Parental outsourcing, want a child but don't want to spend too much time with s/he? An AI can provide the attention you can't.*
 
 
