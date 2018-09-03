@@ -18,8 +18,11 @@ For instance is saying please to Alexa appropriate? Debate!!
 * Personality: implementing an [internal state](https://en.wikipedia.org/wiki/Finite-state_machine) so the AI develops an individual personality based on its interactions with the user. Possible implentation: 
   * a Markov chain model based on the [five factors personality model](https://www.hindawi.com/journals/mpe/2013/132735/)
   * a Markov chain model based on the [Jungian personality model](http://ceur-ws.org/Vol-1680/paper7.pdf)
-  * non-markovian implementations
+  * non-markovian implementations & other personality models
 
+* Interaction between different embodied AIs:
+  * Emergent behaviours
+  * How does my AI interact with yours? Does it feel jealous that yours have more legs or more sensors?
 
 #### What does this mean for kids and adults?
 
@@ -34,4 +37,9 @@ For a AI to be emotional and to have its own personality means that
 * The way kids behave towards their frieds is an indicator of their emotional state. The AI could be used as tool to unearth and prevent adverse situations a child might be quietly going through, ie. bullying at school.
 * *Parental outsourcing, want a child but don't want to spend too much time with s/he? An AI can provide the attention you can't.*
 
+
+#### Resources
+
+Lego WeDo
+Scratch-based [Cognimates](cognimates.me)
 
