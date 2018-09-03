@@ -7,14 +7,18 @@ For instance is saying please to Alexa appropriate? Debate!!
 ###### (currently) missing qualities of AI
 
 * Phyisical: Things that we can touch are easier to understand and to connect with
-* Emotional
-* Accessible
-* Personality
+* Accessible: The best way to understand and demystify a new technology is to explore it and build it.
+* Personality: 
 * Emotional:
-  * asefa 
-  * afsdfasef
+  * the most powerful kind of intelligence that we know of, human intelligence, is hard to conceive without emotions. 
+  * emotions are a great way to relate to new things and that it’s easier to understand things we relate to
 
+###### Further implementations
 
+* Personality: implementing an [internal state](https://en.wikipedia.org/wiki/Finite-state_machine) so the AI develops an individual personality based on its interactions with the user. Possible implentation: 
+ * a Markov chain model based on the [five factors personality model](https://www.hindawi.com/journals/mpe/2013/132735/)
+ * a Markov chain model based on the [Jungian personality model](http://ceur-ws.org/Vol-1680/paper7.pdf)
+ * non-markovian implementations
 
 
 ###### What does this mean for kids and adults?
