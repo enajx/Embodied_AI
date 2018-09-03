@@ -7,5 +7,10 @@ For instance is saying please to Alexa appropriate? Debate!!
 ###### What does this mean for kids and adults?
 
 For a AI to be emotional and to have its own personality means that
-* it's more likely to be integrated in the family dynamics
+* it's more likely to be seamlessly integrated in the family dynamics
 * it feels less of a alienating experience to interact with it
+
+
+###### Possible use cases
+
+* The way kids behave towards their frieds is an indicator of their emotional state. The AI could be used as tool to unearth and prevent adverse situations a child might be quietly going through, ie. bullying at school.
