@@ -39,3 +39,6 @@
 Lego WeDo  
 Scratch-based [Cognimates](cognimates.me)  
 
+
+![Alt text](imges/igor.jpg?raw=true "Title")
+
