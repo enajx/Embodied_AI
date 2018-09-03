@@ -16,9 +16,9 @@ For instance is saying please to Alexa appropriate? Debate!!
 #### Future developments of the project
 
 * Personality: implementing an [internal state](https://en.wikipedia.org/wiki/Finite-state_machine) so the AI develops an individual personality based on its interactions with the user. Possible implentation: 
- * a Markov chain model based on the [five factors personality model](https://www.hindawi.com/journals/mpe/2013/132735/)
- * a Markov chain model based on the [Jungian personality model](http://ceur-ws.org/Vol-1680/paper7.pdf)
- * non-markovian implementations
+  * a Markov chain model based on the [five factors personality model](https://www.hindawi.com/journals/mpe/2013/132735/)
+  * a Markov chain model based on the [Jungian personality model](http://ceur-ws.org/Vol-1680/paper7.pdf)
+  * non-markovian implementations
 
 
 #### What does this mean for kids and adults?
