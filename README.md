@@ -4,7 +4,7 @@ Embodied AI
 If you have a chance to perhaps write more on what this might mean for kids and adults that’d be cool. 
 For instance is saying please to Alexa appropriate? Debate!!
 
-###### (currently) missing qualities of AI
+##### (currently) missing qualities of AI
 
 * Phyisical: Things that we can touch are easier to understand and to connect with
 * Accessible: The best way to understand and demystify a new technology is to explore it and build it.
@@ -13,7 +13,7 @@ For instance is saying please to Alexa appropriate? Debate!!
   * the most powerful kind of intelligence that we know of, human intelligence, is hard to conceive without emotions. 
   * emotions are a great way to relate to new things and that it’s easier to understand things we relate to
 
-###### Further implementations
+##### Further implementations
 
 * Personality: implementing an [internal state](https://en.wikipedia.org/wiki/Finite-state_machine) so the AI develops an individual personality based on its interactions with the user. Possible implentation: 
  * a Markov chain model based on the [five factors personality model](https://www.hindawi.com/journals/mpe/2013/132735/)
@@ -21,14 +21,14 @@ For instance is saying please to Alexa appropriate? Debate!!
  * non-markovian implementations
 
 
-###### What does this mean for kids and adults?
+##### What does this mean for kids and adults?
 
 For a AI to be emotional and to have its own personality means that
 * it's more likely to be seamlessly integrated in the family dynamics
 * it feels less of a alienating experience to interact with it
 
 
-###### Possible use cases in a household environment 
+##### Possible use cases in a household environment 
 
 * Helping cementing certain manners like saying *please*.
 * The way kids behave towards their frieds is an indicator of their emotional state. The AI could be used as tool to unearth and prevent adverse situations a child might be quietly going through, ie. bullying at school.
