@@ -2,7 +2,6 @@
 
 ![Alt text](images/igor.jpg?raw=true "Title")
 
-## 
 
 
 ### What's missing in AI?
