@@ -48,5 +48,5 @@ Scratch-based [Cognimates](cognimates.me)
 
 
 <p align="center"> 
-<img src="images/photos.jpg" width="600">
+<img src="images/photos.png" width="600">
 </p>
