@@ -1,6 +1,7 @@
 ## [MediaLab Berlin](https://www.media.mit.edu/events/mlberlin-signalandnoise/) · Creative AI.Embodied AI 
 
-![Alt text](images/igor.jpg?raw=true "Title" =333x250 )
+
+![](images/igor.jpg =100x20)
 
 
 
