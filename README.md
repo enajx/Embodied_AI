@@ -1,6 +1,10 @@
 ## [MediaLab Berlin](https://www.media.mit.edu/events/mlberlin-signalandnoise/) · Creative AI.Embodied AI 
 
 
+<img src="https://github.com/AjarAilerons/Embodied_AI/blob/master/images/igor.jpg" width="500">
+
+
+
 ### What's missing in AI?
 
 * **Physical**: Things that we can touch are easier to understand and to connect with
@@ -38,4 +42,7 @@
 
 Lego WeDo  
 Scratch-based [Cognimates](cognimates.me)  
+
+
+
 
