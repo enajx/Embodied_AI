@@ -46,9 +46,8 @@ Scratch-based [Cognimates](cognimates.me)
 
 ### Credits
 
-<img src="https://github.com/AjarAilerons/Embodied_AI/blob/master/images/photos.png" width="800" class="center">
 
 
-
+<img align="center" src="https://github.com/AjarAilerons/Embodied_AI/blob/master/images/photos.png" width="800">
 
 
