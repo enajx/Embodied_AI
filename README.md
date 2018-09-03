@@ -40,6 +40,6 @@ For a AI to be emotional and to have its own personality means that
 
 #### Resources
 
-Lego WeDo
-Scratch-based [Cognimates](cognimates.me)
+Lego WeDo  
+Scratch-based [Cognimates](cognimates.me)  
 
