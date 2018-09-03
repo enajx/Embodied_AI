@@ -1,5 +1,9 @@
 ## [MediaLab Berlin](https://www.media.mit.edu/events/mlberlin-signalandnoise/) · Creative AI.Embodied AI 
 
+![Alt text](images/igor.jpg?raw=true "Title")
+
+## 
+
 
 ### What's missing in AI?
 
@@ -40,5 +44,5 @@ Lego WeDo
 Scratch-based [Cognimates](cognimates.me)  
 
 
-![Alt text](images/igor.jpg?raw=true "Title")
+
 
