@@ -12,6 +12,9 @@ For instance is saying please to Alexa appropriate? Debate!!
 * Emotional:
   * the most powerful kind of intelligence that we know of, human intelligence, is hard to conceive without emotions. 
   * emotions are a great way to relate to new things and that it’s easier to understand things we relate to.
+  * the interaction with an emotional AI is likely to be less alienating.
+  * it's more likely to be positively integrated in the family household
+  
 
 #### Future developments of the project
 
@@ -24,11 +27,6 @@ For instance is saying please to Alexa appropriate? Debate!!
   * Emergent behaviours
   * How does my AI interact with yours? Does it feel jealous that yours have more legs or more sensors?
 
-#### What does this mean for kids and adults?
-
-For an AI to be emotional and to have its own personality means that
-* it's more likely to be seamlessly integrated in the family dynamics
-* it feels less of an alienating experience to interact with it
 
 
 #### Possible use cases in a household environment 
