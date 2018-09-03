@@ -13,7 +13,7 @@ For instance is saying please to Alexa appropriate? Debate!!
   * the most powerful kind of intelligence that we know of, human intelligence, is hard to conceive without emotions. 
   * emotions are a great way to relate to new things and that it’s easier to understand things we relate to
 
-#### Further implementations
+#### Future developments of the project
 
 * Personality: implementing an [internal state](https://en.wikipedia.org/wiki/Finite-state_machine) so the AI develops an individual personality based on its interactions with the user. Possible implentation: 
  * a Markov chain model based on the [five factors personality model](https://www.hindawi.com/journals/mpe/2013/132735/)
