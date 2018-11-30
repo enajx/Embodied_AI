@@ -6,10 +6,12 @@
 </p>
 
 
-### A very nice summery written by Stefania Druga with the highlight: [Creative Chaos for Creative AI ](https://blog.goodaudience.com/creative-chaos-for-creative-ai-mit-media-lab-berlin-737579895ccf)  
+### A very nice summery written by Stefania Druga with the highlight:  
+### [Creative Chaos for Creative AI ](https://blog.goodaudience.com/creative-chaos-for-creative-ai-mit-media-lab-berlin-737579895ccf)  
   
+&nbsp;
   
-### What's missing in AI?
+### What is AI missing?
 
 * **Physical**: Things that we can touch are easier to understand and to connect with
 * [Tools](http://cognimates.me) to make it **accessible**: The best way to understand and demystify a new technology is to explore it and build it.
