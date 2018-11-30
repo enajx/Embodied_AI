@@ -21,7 +21,7 @@
   * emotions are a great way to relate to new things and that it’s easier to understand things we relate to.
   * the interaction with an emotional AI is likely to be less alienating.
   
-
+&nbsp;
 ### Future developments of the project
 
 * Personality: implementing an [internal state](https://en.wikipedia.org/wiki/Finite-state_machine) so the AI develops an individual personality based on its [interactions](https://en.wikipedia.org/wiki/Reinforcement_learning) with the user. Possible implantation: 
@@ -34,7 +34,7 @@
   * How does my AI interact with yours? Does it feel jealous that yours have more legs or more sensors?
 
 
-
+&nbsp;
 ### Possible use cases in a household environment and envisioned effects
 
 * Helping cementing certain manners like saying *please* or being thankful.
@@ -43,7 +43,7 @@
 * Greater likelihood to be positively integrated in the family household
 * *Parental outsourcing, want a child but don't want to spend too much time with s/he? An AI can provide the attention you can't.*
 
-
+&nbsp;
 ### Resources
 
 Lego WeDo  
@@ -53,7 +53,6 @@ Scratch-based [Cognimates](cognimates.me)
 
 ### Credits
 
-&nbsp;
 
 <p align="center"> 
 <img src="https://github.com/AjarAilerons/Embodied_AI/blob/master/images/photos.png" width="600">
