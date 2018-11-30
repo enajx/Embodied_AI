@@ -2,7 +2,7 @@
 &nbsp;
 
 <p align="center"> 
-<img src="https://github.com/AjarAilerons/Embodied_AI/blob/master/images/igor.jpg" width="600">
+<img src="images/igor.jpg" width="600">
 </p>
 
 &nbsp;
@@ -51,11 +51,12 @@ Scratch-based [Cognimates](cognimates.me)
 
 
 
+
 ### Credits
 
 
 <p align="center"> 
-<img src="https://github.com/AjarAilerons/Embodied_AI/blob/master/images/photos.png" width="600">
+<img src="images/photos.png" width="600">
 </p>
 
 &nbsp;
