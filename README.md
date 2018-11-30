@@ -1,10 +1,11 @@
 ## Work and thoughts resulting of the prototyping week [Signal and Noise](https://www.media.mit.edu/events/mlberlin-signalandnoise/) organized by MIT MediaLab in Berlin, Summer 2018    
-
+&nbsp;
 
 <p align="center"> 
 <img src="https://github.com/AjarAilerons/Embodied_AI/blob/master/images/igor.jpg" width="600">
 </p>
 
+&nbsp;
 
 #### A very nice summery written by Stefania Druga with the highlight: [Creative Chaos for Creative AI ](https://blog.goodaudience.com/creative-chaos-for-creative-ai-mit-media-lab-berlin-737579895ccf)  
   
@@ -52,12 +53,12 @@ Scratch-based [Cognimates](cognimates.me)
 
 ### Credits
 
-
+&nbsp;
 
 <p align="center"> 
 <img src="https://github.com/AjarAilerons/Embodied_AI/blob/master/images/photos.png" width="600">
 </p>
 
-
+&nbsp;
 
 
