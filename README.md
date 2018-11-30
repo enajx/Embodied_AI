@@ -6,8 +6,9 @@
 </p>
 
 
-### A very nice summery made by Stefania Druga: [Creative Chaos for Creative AI ](https://blog.goodaudience.com/creative-chaos-for-creative-ai-mit-media-lab-berlin-737579895ccf)  
-
+### A very nice summery written by Stefania Druga with the highlight: [Creative Chaos for Creative AI ](https://blog.goodaudience.com/creative-chaos-for-creative-ai-mit-media-lab-berlin-737579895ccf)  
+  
+  
 ### What's missing in AI?
 
 * **Physical**: Things that we can touch are easier to understand and to connect with
