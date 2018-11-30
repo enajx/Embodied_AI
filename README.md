@@ -1,4 +1,4 @@
-## [MediaLab Berlin](https://www.media.mit.edu/events/mlberlin-signalandnoise/) · Creative AI.Embodied AI 
+## Work and thoughts resulting of the prototyping week [Signal and Noise](https://www.media.mit.edu/events/mlberlin-signalandnoise/) organized by MIT MediaLab in Berlin, Summer 2018    
 
 
 <p align="center"> 
@@ -6,6 +6,7 @@
 </p>
 
 
+### A very nice summery made by Stefania Druga: [Creative Chaos for Creative AI ](https://blog.goodaudience.com/creative-chaos-for-creative-ai-mit-media-lab-berlin-737579895ccf)  
 
 ### What's missing in AI?
 
@@ -46,11 +47,15 @@ Lego WeDo
 Scratch-based [Cognimates](cognimates.me)  
 
 
-### Credits
 
+### Credits
 
 
 
 <p align="center"> 
 <img src="https://github.com/AjarAilerons/Embodied_AI/blob/master/images/photos.png" width="600">
 </p>
+
+
+
+
