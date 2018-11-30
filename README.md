@@ -6,8 +6,7 @@
 </p>
 
 
-### A very nice summery written by Stefania Druga with the highlight:  
-### [Creative Chaos for Creative AI ](https://blog.goodaudience.com/creative-chaos-for-creative-ai-mit-media-lab-berlin-737579895ccf)  
+#### A very nice summery written by Stefania Druga with the highlight: [Creative Chaos for Creative AI ](https://blog.goodaudience.com/creative-chaos-for-creative-ai-mit-media-lab-berlin-737579895ccf)  
   
 &nbsp;
   
