@@ -1,4 +1,4 @@
-## Work and thoughts resulting of the prototyping week [Signal and Noise](https://www.media.mit.edu/events/mlberlin-signalandnoise/) organized by MIT MediaLab in Berlin, Summer 2018    
+## Work and thoughts resulting of the prototyping week [Signal and Noise](https://www.media.mit.edu/events/mlberlin-signalandnoise/) organized by MIT [MediaLab](https://github.com/mitmedialab) in Berlin, Summer 2018    
 &nbsp;
 
 <p align="center"> 
